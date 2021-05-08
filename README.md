@@ -1,16 +1,35 @@
-### Hi there 👋
+### Hey there! :smile:
 
-<!--
-**emilyy-dev/emilyy-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Emily, welcome to my GitHub profile! This is where I dump some silly projects I've worked on.
 
-Here are some ideas to get you started:
+My focus right now is on Minecraft modding, more specifically [Bukkit plugins](https://dev.bukkit.org/) and although my plugins are made in Java, I'm wanting to expand my horizons and do fancy things in other languages and outside of the Bukkit API!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I'm currently working on:
+* My ""flagship"" plugin [BetterJails](https://github.com/emilyy-dev/BetterJails)
+* A common/core library for my Minecraft plugins, [EmmyLib](https://github.com/emilyy-dev/EmmyLib) (not public yet!)
+* Contributing (trying to :sweat_smile:) to [lucko/LuckPerms](https://github.com/lucko/LuckPerms)
+___
+Come by my [discord server](https://discord.gg/GDxHt27) if you are seeking support for my plugins, or just to say hi and have a bit of a chit chat :smile:
+
+##### Pronouns: she/her
+___
+#### Languages I have experience (and like to consider myself proficient in):
+* C++
+* Java
+* C
+
+#### Languages I want to learn.. eventually:
+* Clojure
+* Rust
+* Kotlin (I know some.. definitely not proficient)
+* TypeScript
+* ???
+
+#### APIs and frameworks I have (varied) experience with (# of stars = estimated experience/knowledge; 6 max):
+* C++ STL (:star::star::star::star::star:)
+* [evpp](https://github.com/Qihoo360/evpp) (:star::star:)
+* Win32/WinAPI (:star::star::star::star:)
+* Direct2D & DirectWrite (:star::star::star:)
+* JDK (:star::star::star::star::star:)
+* Android API (:star::star::star::star:)
+* Bukkit/Spigot/Paper API (:star::star::star::star::star::star:) (definitely the one I've been spending the most time on!!)
