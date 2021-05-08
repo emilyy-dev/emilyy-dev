@@ -1,6 +1,6 @@
 ### Hey there! :smile:
 
-My name is Emily, welcome to my GitHub profile! This is where I dump some silly projects I've worked on.
+My name is Emily and I study computer science, welcome to my GitHub profile! This is where I dump some silly projects I've worked on.
 
 My focus right now is on Minecraft modding, more specifically [Bukkit plugins](https://dev.bukkit.org/) and although my plugins are made in Java, I'm wanting to expand my horizons and do fancy things in other languages and outside of the Bukkit API!
 
