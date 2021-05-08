@@ -4,15 +4,15 @@ My name is Emily and I study computer science, welcome to my GitHub profile! Thi
 
 My focus right now is on Minecraft modding, more specifically [Bukkit plugins](https://dev.bukkit.org/) and although my plugins are made in Java, I'm wanting to expand my horizons and do fancy things in other languages and outside of the Bukkit API!
 
-#### I'm currently working on:
-* My ""flagship"" plugin [BetterJails](https://github.com/emilyy-dev/BetterJails)
-* A common/core library for my Minecraft plugins, [EmmyLib](https://github.com/emilyy-dev/EmmyLib) (not public yet!)
-* Contributing (trying to :sweat_smile:) to [lucko/LuckPerms](https://github.com/lucko/LuckPerms)
-___
 Come by my [discord server](https://discord.gg/GDxHt27) if you are seeking support for my plugins, or just to say hi and have a bit of a chit chat :smile:
 
 ##### Pronouns: she/her
 ___
+#### I'm currently working on:
+* My ""flagship"" plugin [BetterJails](https://github.com/emilyy-dev/BetterJails)
+* A common/core library for my Minecraft plugins, [EmmyLib](https://github.com/emilyy-dev/EmmyLib) (not public yet!)
+* Contributing (trying to :sweat_smile:) to [lucko/LuckPerms](https://github.com/lucko/LuckPerms)
+
 #### Languages I have experience (and like to consider myself proficient in):
 * C++
 * Java
