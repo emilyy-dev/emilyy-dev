@@ -10,7 +10,7 @@ Come by my [discord server](https://discord.gg/GDxHt27) if you are seeking suppo
 ___
 #### I'm currently working on:
 * My ""flagship"" plugin [BetterJails](https://github.com/emilyy-dev/BetterJails)
-* A common/core library for my Minecraft plugins, [EmmyLib](https://github.com/emilyy-dev/EmmyLib) (not public yet!)
+* A common/core library for my Minecraft plugins, [EmmyLib](https://github.com/emilyy-dev/EmmyLib) (WIP!)
 * Contributing (trying to :sweat_smile:) to [lucko/LuckPerms](https://github.com/lucko/LuckPerms)
 
 #### Languages I have experience (and like to consider myself proficient in):
