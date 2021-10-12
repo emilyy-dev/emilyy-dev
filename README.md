@@ -4,22 +4,24 @@ My name is Emily and I study computer science, welcome to my GitHub profile! Thi
 
 My focus right now is on Minecraft modding, more specifically [Bukkit plugins](https://www.curseforge.com/minecraft/bukkit-plugins) and [Fabric mods](https://fabricmc.net/) and, although my plugins are made in Java, I'm wanting to expand my horizons and do fancy things in other languages and outside of the Minecraft ecosystem!
 
-Come by my [discord server](https://discord.gg/GDxHt27) if you are seeking support for my plugins, or just to say hi and have a bit of a chit chat :smile:
+Come by my [discord server](https://discord.gg/GDxHt27) if you are seeking support for my projects, or just to say hi and have a bit of a chit chat :smile:
 
 ##### Pronouns: she/her
 ___
 #### I'm currently working on:
+* A Java annotation processor that allows for defining service providers by annotating the provider type, [annotated-service-provider](https://github.com/emilyy-dev/annotated-service-provider)
 * My ""flagship"" plugin [BetterJails](https://github.com/emilyy-dev/BetterJails)
 * A common/core library for my Minecraft plugins, [EmmyLib](https://github.com/emilyy-dev/EmmyLib) (WIP!)
-* Contributing (trying to :sweat_smile:) to [lucko/LuckPerms](https://github.com/lucko/LuckPerms)
+* Contributing (trying to :sweat_smile:) to [LuckPerms/LuckPerms](https://github.com/LuckPerms/LuckPerms)
 
 #### Languages I have experience (and like to consider myself proficient in):
-* C++
 * Java
+* C++
 * C
 
 #### Languages I want to learn.. eventually:
 * Clojure
+* Scala
 * Rust
 * Kotlin (I know some.. definitely not proficient)
 * TypeScript
