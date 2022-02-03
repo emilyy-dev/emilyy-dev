@@ -4,7 +4,7 @@ My name is Emily and I study computer science, welcome to my GitHub profile! Thi
 
 My focus right now is on Minecraft modding, more specifically [Bukkit plugins](https://www.curseforge.com/minecraft/bukkit-plugins) and [Fabric mods](https://fabricmc.net/) and, although my plugins are made in Java, I'm wanting to expand my horizons and do fancy things in other languages and outside of the Minecraft ecosystem!
 
-Come by my [discord server](https://discord.gg/GDxHt27) if you are seeking support for my projects, or just to say hi and have a bit of a chit chat :smile:
+Come by my [discord server](https://discord.gg/Zk9HRuz4ZZ) if you are seeking support for my projects, or just to say hi and have a bit of a chit chat :smile:
 
 ##### Pronouns: she/her
 ___
