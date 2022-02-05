@@ -38,6 +38,7 @@ ___
 * Win32/WinAPI (:star::star::star::star:)
 * Direct2D & DirectWrite (:star::star::star:)
 * JDK (:star::star::star::star::star::star:)
+* jOOQ (:star::star::star::star:)
 * Android API (:star::star::star::star:)
 * Bukkit/Spigot/Paper API (:star::star::star::star::star::star:)
 * [Mixin](https://github.com/SpongePowered/Mixin) (:star::star::star::star::star:)
