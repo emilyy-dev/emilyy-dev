@@ -9,6 +9,7 @@ Come by my [discord server](https://discord.gg/Zk9HRuz4ZZ) if you are seeking su
 ##### Pronouns: she/her
 ___
 #### I'm currently working on:
+* [EmmySON](https://github.com/emilyy-dev/EmmySON): a JSON parser/serializer/deserializer API + impl, because the world doesn't have enough of those already!
 * A Java annotation processor that allows for defining service providers by annotating the provider type, [annotated-service-provider](https://github.com/emilyy-dev/annotated-service-provider)
 * My ""flagship"" plugin [BetterJails](https://github.com/emilyy-dev/BetterJails)
 * A common/core library for my Minecraft plugins, [EmmyLib](https://github.com/emilyy-dev/EmmyLib) (WIP!)
