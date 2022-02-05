@@ -9,11 +9,15 @@ Come by my [discord server](https://discord.gg/Zk9HRuz4ZZ) if you are seeking su
 ##### Pronouns: she/her
 ___
 #### I'm currently working on:
-* [EmmySON](https://github.com/emilyy-dev/EmmySON): a JSON parser/serializer/deserializer API + impl, because the world doesn't have enough of those already!
-* A Java annotation processor that allows for defining service providers by annotating the provider type, [annotated-service-provider](https://github.com/emilyy-dev/annotated-service-provider)
+* A JSON parser/serializer/deserializer API + impl, because the world doesn't have enough of those already! [EmmySON](https://github.com/emilyy-dev/EmmySON)
 * My ""flagship"" plugin [BetterJails](https://github.com/emilyy-dev/BetterJails)
 * A common/core library for my Minecraft plugins, [EmmyLib](https://github.com/emilyy-dev/EmmyLib) (WIP!)
 * Contributing (trying to :sweat_smile:) to [LuckPerms/LuckPerms](https://github.com/LuckPerms/LuckPerms)
+
+#### Past (public) work:
+* A Java annotation processor that allows for defining service providers by annotating the provider type, [annotated-service-provider](https://github.com/emilyy-dev/annotated-service-provider)
+* A "simple" Bukkit plugin to filter chat content sent by players and notify staff based on regex match/replace functionality, [chat-regex-filter](https://github.com/emilyy-dev/chat-regex-filter)
+* A simple Fabric mod to bypass/ignore required resource packs in servers, [bypass-resource-pack](https://github.com/emilyy-dev/bypass-resource-pack)
 
 #### Languages I have experience (and like to consider myself proficient in):
 * Java
@@ -24,15 +28,16 @@ ___
 * Clojure
 * Scala
 * Rust
-* Kotlin (I know some.. definitely not proficient)
+* Kotlin (I know quite a bit.. not proficient in it)
 * TypeScript
 * ???
 
-#### APIs and frameworks I have (varied) experience with (# of stars = estimated experience/knowledge; 6 max):
+#### Non-trivial APIs and frameworks I have (varied) experience with (# of stars = estimated experience/knowledge):
 * C++ STL (:star::star::star::star::star:)
 * [evpp](https://github.com/Qihoo360/evpp) (:star::star:)
 * Win32/WinAPI (:star::star::star::star:)
 * Direct2D & DirectWrite (:star::star::star:)
-* JDK (:star::star::star::star::star:)
+* JDK (:star::star::star::star::star::star:)
 * Android API (:star::star::star::star:)
-* Bukkit/Spigot/Paper API (:star::star::star::star::star::star:) (definitely the one I've been spending the most time on!!)
+* Bukkit/Spigot/Paper API (:star::star::star::star::star::star:)
+* [Mixin](https://github.com/SpongePowered/Mixin) (:star::star::star::star::star:)
