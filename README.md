@@ -14,7 +14,7 @@ ___
 * A common/core library for my Minecraft plugins, [EmmyLib](https://github.com/emilyy-dev/EmmyLib) (WIP!)
 * Contributing (trying to :sweat_smile:) to [LuckPerms/LuckPerms](https://github.com/LuckPerms/LuckPerms)
 
-#### Past (public) work:
+#### Past (public) work (I'm somewhat proud of):
 * A Java annotation processor that allows for defining service providers by annotating the provider type, [annotated-service-provider](https://github.com/emilyy-dev/annotated-service-provider)
 * A "simple" Bukkit plugin to filter chat content sent by players and notify staff based on regex match/replace functionality, [chat-regex-filter](https://github.com/emilyy-dev/chat-regex-filter)
 * A simple Fabric mod to bypass/ignore required resource packs in servers, [bypass-resource-pack](https://github.com/emilyy-dev/bypass-resource-pack)
