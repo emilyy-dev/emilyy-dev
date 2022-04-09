@@ -24,12 +24,14 @@ ___
 * C++
 * C
 
+#### Other languages I have a fair amount of experience:
+* Scala
+* Kotlin
+
 #### Languages I want to learn.. eventually:
 * Clojure
-* Scala
-* Rust
-* Kotlin (I know quite a bit.. not proficient in it)
 * TypeScript
+* Rust
 * ???
 
 #### Non-trivial APIs and frameworks I have (varied) experience with (# of stars = estimated experience/knowledge):
