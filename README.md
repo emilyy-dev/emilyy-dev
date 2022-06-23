@@ -11,7 +11,7 @@ ___
 #### I'm currently working on:
 * A JSON parser/serializer/deserializer API + impl, because the world doesn't have enough of those already! [EmmySON](https://github.com/emilyy-dev/EmmySON)
 * A class file reader a-la-`javap`, [ClassFileReader](https://github.com/emilyy-dev/ClassFileReader)
-* My ""flagship"" plugin [BetterJails](https://github.com/emilyy-dev/BetterJails)
+* My ""flagship"" Minecraft plugin [BetterJails](https://github.com/emilyy-dev/BetterJails)
 * Contributing (trying to :sweat_smile:) to [LuckPerms/LuckPerms](https://github.com/LuckPerms/LuckPerms)
 
 #### Past (public) work (I'm somewhat proud of):
