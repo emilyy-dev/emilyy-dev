@@ -34,7 +34,8 @@ ___
 * Rust
 * ???
 
-#### Non-trivial APIs and frameworks I have (varied) experience with (# of stars = estimated experience/knowledge):
+#### Non-trivial APIs, frameworks and tools I have (varied) experience with (# of stars = estimated experience/knowledge):
+* Git (:star::star::star::star::star:)
 * C++ STL (:star::star::star::star::star:)
 * [evpp](https://github.com/Qihoo360/evpp) (:star::star:)
 * Win32/WinAPI (:star::star::star::star:)
